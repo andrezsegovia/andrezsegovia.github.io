@@ -21,10 +21,9 @@
 }
 .nav .avatar-name .avatar img {
   width: 100px;
-  height: 100px;
 }
 .nav .avatar-name .name {
-  margin-top: 10px;
+  margin-top: 15px;
   margin-bottom: 20px;
 }
 .nav .avatar-name .name i {

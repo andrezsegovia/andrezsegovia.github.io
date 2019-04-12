@@ -1,0 +1,13 @@
+nav:
+  home: HOME
+  tags: TAGS
+  archives: ARCHIVO
+  about: SOBRE MI
+  search: BUSCAR
+post:
+  postTime: Post
+  tags: Tags
+  visit: Visit
+  donate: donate
+search:
+  search: search
