@@ -12,7 +12,7 @@ timezone: America/Bogota
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://andrezsegovia.com/
 root: /
-permalink: :category/:title/
+permalink: :title/
 permalink_defaults:
 
 # Custome Setting Start
@@ -24,6 +24,11 @@ linkedin_username: andrezsegovia
 
 # SEO
 SEOTitle: Andrez Segovia
+
+# Comments
+comment:
+  type: disqus
+  script: https://personal-website-17.disqus.com/embed.js
 
 # Directory
 source_dir: source
