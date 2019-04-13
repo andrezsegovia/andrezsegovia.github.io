@@ -3,8 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Andrez Segovia | Desarrollor de Software
-subtitle: Bienvenido A Mi Blog!
+title: Andrez Segovia | Blog
 author: Andrez Segovia
 language: es
 timezone: America/Bogota
@@ -22,6 +21,9 @@ sidebar-avatar: img/avatar.png
 # Accounts 
 github_username: andrezsegovia
 linkedin_username: andrezsegovia
+
+# SEO
+SEOTitle: Andrez Segovia
 
 # Directory
 source_dir: source
